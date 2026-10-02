@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="./banner.png" width="100%" alt="Aleena Jude - Developer Banner">
+</div>
 <div align="center">
 
 # 👩🏻‍💻 ALEENA JUDE
