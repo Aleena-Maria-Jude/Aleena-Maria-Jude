@@ -1,16 +1,89 @@
-## Hi there 👋
 
-<!--
-**Aleena-Maria-Jude/Aleena-Maria-Jude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👩🏻‍💻 ALEENA JUDE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### SOFTWARE DEVELOPER | CSE STUDENT
+
+*Building ideas into software...*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👋 Hi, I'm Aleena!
+
+💻 CSE Student  
+🌱 Learning Web Development  
+💡 Interested in Software Development  
+🏆 EmpowHER Ideathon — 2nd Prize  
+
+**Currently learning**
+
+- HTML
+- CSS
+- JavaScript
+- Java
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Developer Terminal
+
+```text
+$ whoami
+
+Aleena Jude
+CSE Student • Developer
+
+$ mission
+
+Build useful things.
+Solve meaningful problems.
+
+$ current_state
+
+Learning → Building → Improving
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+### 🚀 My Projects
+
+- 🌐 **Personal Portfolio** — Coming soon
+- 🍽️ **Smart Campus Canteen Management System** — A project to improve campus canteen queues and ordering.
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+<div align="center">
+
+✨ *Learn. Build. Create. Repeat.* ✨
+
+</div>
